@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Compose_pager</string>
+    <string name="onboarding_title_1">Browse All Products\nat Any Time</string>
+    <string name="onboarding_title_2">You Package in \nOur Safe Hands</string>
+    <string name="onboarding_title_3">Committed Delivery on Time</string>
+    <string name="onboarding_description_1">Any text1</string>
+    <string name="onboarding_description_2">Any text2</string>
+    <string name="onboarding_description_3">Any text3</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="skip" translatable="false">Skip</string>
+    <string name="proceed" translatable="false">Proceed</string>
+    <string name="online_market">Online Market</string>
+</resources>
